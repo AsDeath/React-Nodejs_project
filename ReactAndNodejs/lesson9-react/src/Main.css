@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&family=Roboto+Mono:wght@300&display=swap');
+
+.box-slider .title a:hover svg path{
+    fill: #f3f4f6;
+}
+.box-slider .buy-button:hover p{
+    color: black;
+}
+.box-slider .buy-button:hover p svg,
+.box-slider .buy-button:hover p svg path{
+    fill: black;
+}
+.box-slider .right-button{
+    right: -5%;
+    cursor: pointer;
+}
+.box-slider .left-button{
+    left: -5%;
+    cursor: pointer;
+}
+.main-slider .right-button{
+    cursor: pointer;
+}
+.main-slider .left-button{
+    cursor: pointer;
+}

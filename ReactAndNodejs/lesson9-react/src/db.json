@@ -1,0 +1,274 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "title": "Pizza",
+      "content": [
+        {
+                "id": 0,
+                "name": "Rancho",
+                "link": "/0",
+                "image": "https://andys.md/public/menu/thumbs/version_220x310x1/16299a11219bd72f0c8fd4010a07a915.jpg",
+                "largeImage": "https://andys.md/public/menu/thumbs/version_712x785x1/c16804bcd0d47fce6c6d033b694a09fe.jpg",
+                "price": 105.00,
+                "description": "Weathered dough for pizza, red pizza sauce, chicken meat, mushrooms, mayonnaise, cheese, gogoshara.",
+                "weight": 580
+            },
+            {
+                "id": 1,
+                "name": "Neapolitana",
+                "link": "/1",
+                "image": "https://andys.md/public/menu/thumbs/version_220x310x1/e82699285be9e14654e7ca2476437b49.jpg",
+                "largeImage": "https://andys.md/public/menu/thumbs/version_712x785x1/9edc060af068da34bc5c8298755f11a2.jpg",
+                "price": 105.00,
+                "description": "Weathered dough for pizza, red sauce for pizza, ham, mushrooms, cheese, black and green olives.",
+                "weight": 510
+            },
+            {
+                "id": 2,
+                "name": "Greek",
+                "link": "/2",
+                "image": "https://andys.md/public/menu/thumbs/version_220x310x1/7c14b1449f6d8adca5575c7a5a5a87a9.jpg",
+                "largeImage": "https://andys.md/public/menu/thumbs/version_712x785x1/abe848cde189206049cae70fee65b2ad.jpg",
+                "price": 110.00,
+                "description": "Weathered pizza dough, red pizza sauce, chicken steak, sweet pepper, mozzarel, olives of Kalamata, Bryns sheep, basil, olive oil.",
+                "weight": 610
+            },
+            {
+                "id": 3,
+                "name": "Mario",
+                "link": "/3",
+                "image": "https://andys.md/public/menu/thumbs/version_220x310x1/737c8692719fc56eb65cd525be837aef.jpg",
+                "largeImage": "https://andys.md/public/menu/thumbs/version_712x785x1/1d9d15e01830693aa9d0e6b5851dd8d6.jpg",
+                "price": 105.00,
+                "description": "Weathered Pizza Dough, Red Sauce for Pizza, Mayonnaise, Cheese, Chicken Meat, Dor Blue Cheese, Gogoshara, Kabanos sausages, spinach.",
+                "weight": 550
+            },
+            {
+                "id": 4,
+                "name": "Pepperoni",
+                "link": "/4",
+                "image": "https://andys.md/public/menu/thumbs/version_220x310x1/aacd0811da0fe2823176bac8da9b8295.jpg",
+                "largeImage": "https://andys.md/public/menu/thumbs/version_712x785x1/3a9c24985cb363b8cc326e00e39cad6e.jpg",
+                "price": 105.00,
+                "description": "Acute pizza with salyamib paprika and chili",
+                "weight": 475
+            },
+            {
+                "id": 5,
+                "name": "5 cheese",
+                "link": "/5",
+                "image": "https://andys.md/public/menu/thumbs/version_220x310x1/eac9362c7dcd11df9149ecb057259c6d.jpg",
+                "largeImage": "https://andys.md/public/menu/thumbs/version_712x785x1/cf7cd100049565ea69af659f168fc20b.jpg",
+                "price": 105.00,
+                "description": "Weathered dough for pizza, cheese, brie cheese, cheese Dorblu, mousse cheese.",
+                "weight": 420
+            },
+            {
+                "id": 6,
+                "name": "BBQ",
+                "link": "/6",
+                "image": "https://andys.md/public/menu/thumbs/version_220x310x1/052e9f089f73d9cb5ecb8b831109f3b5.jpg",
+                "largeImage": "https://andys.md/public/menu/thumbs/version_712x785x1/6401a48dae0fe70a9d21e2af5a2af15d.jpg",
+                "price": 105.00,
+                "description": "Pizza with BBQ sauce, salami, chicken meat and gogoshara.",
+                "weight": 560
+            }
+      ]
+    }
+  ],
+  "mainSlider": [
+    {
+      "id": 0,
+      "image": "https://andys.md/public/sliders/thumbs/version_2560x916x1/99e4fed4f4c30baa2e5787cd067edd4a.jpg"
+    },
+    {
+      "id": 1,
+      "image": "https://andys.md/public/sliders/thumbs/version_2560x916x1/40ad7ef8cccbddf9479139b0a0b6306f.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://andys.md/public/sliders/thumbs/version_2560x916x1/a0b148d122daa4057a7c2aa21419f90b.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://andys.md/public/sliders/thumbs/version_2560x916x1/026bc0617f666d477ae65122d379f939.jpg"
+    }
+  ],
+  "brandList": [
+    {
+      "id": 0,
+      "image": "https://andys.md/assets/img/brands/LaPlacinte.svg",
+      "link": "https://laplacinte.md"
+    },
+    {
+      "id": 1,
+      "image": "https://andys.md/assets/img/brands/CiaoCacao.svg",
+      "link": "https://ciaocacao.md"
+    },
+    {
+      "id": 2,
+      "image": "https://andys.md/assets/img/brands/Gustland.png",
+      "link": "https://gustland.md"
+    }
+  ],
+  "selphonenumList": [
+    {
+      "id": 0,
+      "city": "Кишинев",
+      "number": "022 210-210"
+    },
+    {
+      "id": 1,
+      "city": "Бельцы",
+      "number": "023 120-210"
+    },
+    {
+      "id": 2,
+      "city": "Чадыр-Лунга",
+      "number": "079 22-44-66"
+    },
+    {
+      "id": 3,
+      "city": "Кагул",
+      "number": "078 848 484"
+    },
+    {
+      "id": 4,
+      "city": "Комрат",
+      "number": "078 22-00-88"
+    }
+  ],
+  "logo": [
+    {
+      "id": 0,
+      "image": "https://andys.md/assets/img/logo.svg"
+    }
+  ],
+  "clients": [
+    {
+      "id": 0,
+      "email": "admin@admin.bd",
+      "password": "admin"
+    },
+    {
+      "email": "bibaboba@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "email": "boba_biba@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "email": "email@gmail.com",
+      "password": "111111",
+      "id": 3
+    },
+    {
+      "email": "qqqqq@gmail.com",
+      "password": "111111",
+      "id": 4
+    },
+    {
+      "email": "qwert@gmail.com",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "email": "asdfg@gmail.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "email": "qazwsx@gmail.com",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "email": "zzzzzz@gmail.com",
+      "password": "123456",
+      "id": 8
+    },
+    {
+      "email": "xxx@gmail.com",
+      "password": "123456",
+      "id": 9
+    },
+    {
+      "email": "ppp@gmail.com",
+      "password": "123456",
+      "id": 10
+    }
+  ],
+  "addtLinks": [
+    {
+        "id": 0,
+        "name": "Ro",
+        "link": "/ro"
+    },
+    {
+        "id": 1,
+        "name": "En",
+        "link": "/en"
+    },
+    {
+        "id": 2,
+        "name": "Ru",
+        "link": "/ru"
+    }
+  ],
+  "navbar": [
+    {
+        "id": 0,
+        "link": "/products",
+        "name": "Menu",
+        "add":
+        [
+            {
+                "id": 0,
+                "link": "/products/",
+                "name": "Pizza"
+            },
+            {
+                "id": 1,
+                "link": "/products/",
+                "name": "Snaks"
+            },
+            {
+                "id": 2,
+                "link": "/products/",
+                "name": "Salat"
+            },
+            {
+                "id": 3,
+                "link": "/products/",
+                "name": "Soup"
+            },
+            {
+                "id": 4,
+                "link": "/products/",
+                "name": "Main Dishes"
+            },
+            {
+                "id": 5,
+                "link": "/products/",
+                "name": "Box"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "link": "/restaurants",
+        "name": "Restaurants",
+        "add": []
+    },
+    {
+        "id": 2,
+        "link": "/news",
+        "name": "News",
+        "add": []
+    }
+  ]
+}
